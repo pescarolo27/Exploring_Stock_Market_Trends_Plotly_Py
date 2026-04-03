@@ -1,4 +1,4 @@
-# Exploring Stock Market Trends (Python)
+# Exploring Stock Market Trends with Plotly (Python)
 
 **Background:** The fast food industry represents one of the most dynamic sectors in the stock market, with companies ranging from global giants like McDonald's to innovative newcomers like Luckin Coffee.
 
